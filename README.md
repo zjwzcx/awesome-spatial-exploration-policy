@@ -37,7 +37,7 @@ A curated list of awesome NBV planning papers, inspired by [awesome-computer-vis
 
 
 <details open>
-<summary>>### Generalization</summary>
+<summary>Generalization</summary>
 
 - [GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://arxiv.org/abs/2007.02442), Schwarz et al., NeurIPS 2020 | [github](https://github.com/autonomousvision/graf)  | [bibtex](./NeRF-and-Beyond.bib#L237-L243) <!---Schwarz20neurips_graf-->
 
