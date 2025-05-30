@@ -1,7 +1,7 @@
 # Awesome Exploration Policy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome exploration policy papers, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
-We classify the primary technical frameworks of existing NBV policies into the following categories: 1) information gain (aka, uncertainty), 2) reinforcement learning, 3) regression/recurrent prediction.
+We classify the primary technical frameworks of existing NBV policies into the following categories: 1) information gain (a.k.a. uncertainty), 2) reinforcement learning, 3) regression/recurrent prediction.
 
 The exploration task, as known as or similar to next-best-view planning and active mapping, aims to determine the next best viewpoints to better model the target objects or scenes. The downstream tasks include: 3D reconstruction, neural rendering, SLAM, visual localization, object understanding, robotic manipulation.
 
@@ -28,8 +28,9 @@ The exploration task, as known as or similar to next-best-view planning and acti
 
 ## Papers
 
-<details open>
-<summary>Indoor Scenes</summary>
+<!-- <details open> -->
+<!-- <summary>Indoor Scenes</summary> -->
+### Indoor Scenes
 
 #### Reinforcement Learning
 - [GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes](https://arxiv.org/abs/2505.20294), Chen et al., arXiv 2025
@@ -38,6 +39,8 @@ The exploration task, as known as or similar to next-best-view planning and acti
 
 
 #### Information Gain
+
+- [ActiveGS: Active Scene Reconstruction Using Gaussian Splatting](https://arxiv.org/abs/2412.17769), Jin et al., RA-L 2025
 - [Multi-robot collaborative dense scene reconstruction](https://dl.acm.org/doi/10.1145/3306346.3322942), Dong et al., TOG 2019
 - [Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields](https://arxiv.org/abs/2209.08718), Sünderhauf et al., arXiv 2022
 
@@ -47,12 +50,13 @@ The exploration task, as known as or similar to next-best-view planning and acti
 #### Recurrent Prediction
 - [Where to Explore Next? ExHistCNN for History-aware Autonomous 3D Exploration](https://arxiv.org/abs/2011.14669), Wang et al., ECCV 2020
 
-</details>
+<!-- </details> -->
 
 
 
-<details open>
-<summary>Outdoor Scenes</summary>
+<!-- <details open> -->
+<!-- <summary>Outdoor Scenes</summary> -->
+### Outdoor Scenes
 
 #### Reinforcement Learning
 - [GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction](), Chen et al., CVPR 2024
@@ -63,15 +67,17 @@ The exploration task, as known as or similar to next-best-view planning and acti
 - [Next-Best-View planning for surface reconstruction of large-scale 3D environments with multiple UAVs](), Hardouin et al., IROS 2020
 - [Learn-to-Score: Efficient 3D Scene Exploration by Predicting View Utility](),  et al., ECCV 2018
 
-#### Recurrent Prediction
-- [](),  et al., arXiv 2018
+<!-- #### Recurrent Prediction
+- [](),  et al., arXiv 2018 -->
 
-</details>
+<!-- </details> -->
 
 
 
-<details open>
-<summary>Objects</summary>
+<!-- <details open> -->
+<!-- <summary>Objects</summary> -->
+
+### Objects
 
 #### Reinforcement Learning
 - [RL-NBV: A deep reinforcement learning based next-best-view method for unknown object reconstruction](), Wang et al., Pattern Recognition 2024
@@ -100,7 +106,7 @@ The exploration task, as known as or similar to next-best-view planning and acti
 - [Active Object Reconstruction Using a Guided View Planner](), Yang et al., arXiv 2018
 - [Geometry-Aware Recurrent Neural Networks for Active Visual Recognition](), Cheng et al., arXiv 2018
 
-</details>
+<!-- </details> -->
 
 
 
