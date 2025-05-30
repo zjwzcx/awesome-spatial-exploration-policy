@@ -33,13 +33,12 @@ The exploration task, as known as or similar to next-best-view planning and acti
 ### Indoor Scenes
 
 #### Reinforcement Learning
-- [GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes](https://arxiv.org/abs/2505.20294), Chen et al., arXiv 2025
-- [Learning to Explore using Active Neural SLAM](https://arxiv.org/abs/2004.05155), Chaplot et al., ICLR 2020
-- [Learning Exploration Policies for Navigation](https://arxiv.org/abs/1903.01959), Chen et al., ICLR 2019
+- [GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes](https://arxiv.org/abs/2505.20294), Chen et al., arXiv 2025 | [Project](https://xiao-chen.tech/gleam/) | [Code](https://github.com/zjwzcx/GLEAM)
+- [Learning to Explore using Active Neural SLAM](https://arxiv.org/abs/2004.05155), Chaplot et al., ICLR 2020 | [Code](https://github.com/devendrachaplot/Neural-SLAM)
+- [Learning Exploration Policies for Navigation](https://arxiv.org/abs/1903.01959), Chen et al., ICLR 2019 | [Code](https://github.com/taochenshh/exp4nav)
 
 
 #### Information Gain
-
 - [ActiveGS: Active Scene Reconstruction Using Gaussian Splatting](https://arxiv.org/abs/2412.17769), Jin et al., RA-L 2025
 - [Multi-robot collaborative dense scene reconstruction](https://dl.acm.org/doi/10.1145/3306346.3322942), Dong et al., TOG 2019
 - [Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields](https://arxiv.org/abs/2209.08718), Sünderhauf et al., arXiv 2022
@@ -59,8 +58,8 @@ The exploration task, as known as or similar to next-best-view planning and acti
 ### Outdoor Scenes
 
 #### Reinforcement Learning
-- [GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction](), Chen et al., CVPR 2024
-- [Next-Best View Policy for 3D Reconstruction](), Peralta et al., ECCV 2020 Workshop
+- [GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction](https://arxiv.org/abs/2402.16174), Chen et al., CVPR 2024 | [Project](https://gennbv.tech/) | [Code](https://github.com/zjwzcx/GenNBV)
+- [Next-Best View Policy for 3D Reconstruction](https://arxiv.org/abs/2008.12664), Peralta et al., ECCV 2020 Workshop | [Code](https://github.com/darylperalta/ScanRL)
 
 #### Information Gain
 - [Semantically Informed Next Best View Planning for Autonomous Aerial 3D Reconstruction](), Kay et al., IROS 2021
@@ -83,7 +82,7 @@ The exploration task, as known as or similar to next-best-view planning and acti
 - [RL-NBV: A deep reinforcement learning based next-best-view method for unknown object reconstruction](), Wang et al., Pattern Recognition 2024
 - [Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction](),  et al., arXiv 2023
 - [Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances](),  et al., arXiv 2023
-- [A Reinforcement Learning Approach to the View Planning Problem](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html), Kaba et al., CVPR 2017 | [bibtex](./citations/NeuralTransmittance.txt)
+- [A Reinforcement Learning Approach to the View Planning Problem](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html), Kaba et al., CVPR 2017
 
 
 #### Information Gain
@@ -99,7 +98,7 @@ The exploration task, as known as or similar to next-best-view planning and acti
 - [Uncertainty Guided Policy for Active Robotic 3D Reconstruction using Neural Radiance Fields](), Lee et al., R-AL 2016
 - [PC-NBV: A Point Cloud Based Deep Network for Efficient Next Best View Planning](),  et al., IROS 2020
 - [A comparison of volumetric information gain metrics for active 3D object reconstruction](), Delmerico et al., Autonomous 2017
-- [An information gain formulation for active volumetric 3D reconstruction](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html), Isler et al., ICRA 2016 | [bibtex](./citations/NeuralTransmittance.txt)
+- [An information gain formulation for active volumetric 3D reconstruction](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html), Isler et al., ICRA 2016
 
 
 #### Recurrent Prediction
