@@ -31,21 +31,21 @@ The exploration task, as known as or similar to next-best-view planning and acti
 <details open>
 <summary>Indoor Scenes</summary>
 
-### Reinforcement Learning
+#### Reinforcement Learning
 - [GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes](https://arxiv.org/abs/2505.20294), Chen et al., arXiv 2025
-- [Learning to Explore using Active Neural SLAM](), Chaplot et al., ICLR 2020
-- [Learning Exploration Policies for Navigation](), Chen et al., ICLR 2019
+- [Learning to Explore using Active Neural SLAM](https://arxiv.org/abs/2004.05155), Chaplot et al., ICLR 2020
+- [Learning Exploration Policies for Navigation](https://arxiv.org/abs/1903.01959), Chen et al., ICLR 2019
 
 
-### Information Gain
-- [Multi-robot collaborative dense scene reconstruction](), Dong et al., Transactions on Graphics 2019
-- [Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields](), Sünderhauf et al., arXiv 2022
+#### Information Gain
+- [Multi-robot collaborative dense scene reconstruction](https://dl.acm.org/doi/10.1145/3306346.3322942), Dong et al., TOG 2019
+- [Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields](https://arxiv.org/abs/2209.08718), Sünderhauf et al., arXiv 2022
 
 
 
 
-### Recurrent Prediction
-- [Where to Explore Next? ExHistCNN for History-aware Autonomous 3D Exploration](), Wang et al., ECCV 2020
+#### Recurrent Prediction
+- [Where to Explore Next? ExHistCNN for History-aware Autonomous 3D Exploration](https://arxiv.org/abs/2011.14669), Wang et al., ECCV 2020
 
 </details>
 
@@ -54,16 +54,16 @@ The exploration task, as known as or similar to next-best-view planning and acti
 <details open>
 <summary>Outdoor Scenes</summary>
 
-### Reinforcement Learning
+#### Reinforcement Learning
 - [GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction](), Chen et al., CVPR 2024
 - [Next-Best View Policy for 3D Reconstruction](), Peralta et al., ECCV 2020 Workshop
 
-### Information Gain
+#### Information Gain
 - [Semantically Informed Next Best View Planning for Autonomous Aerial 3D Reconstruction](), Kay et al., IROS 2021
 - [Next-Best-View planning for surface reconstruction of large-scale 3D environments with multiple UAVs](), Hardouin et al., IROS 2020
 - [Learn-to-Score: Efficient 3D Scene Exploration by Predicting View Utility](),  et al., ECCV 2018
 
-### Recurrent Prediction
+#### Recurrent Prediction
 - [](),  et al., arXiv 2018
 
 </details>
@@ -73,14 +73,14 @@ The exploration task, as known as or similar to next-best-view planning and acti
 <details open>
 <summary>Objects</summary>
 
-### Reinforcement Learning
+#### Reinforcement Learning
 - [RL-NBV: A deep reinforcement learning based next-best-view method for unknown object reconstruction](), Wang et al., Pattern Recognition 2024
 - [Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction](),  et al., arXiv 2023
 - [Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances](),  et al., arXiv 2023
 - [A Reinforcement Learning Approach to the View Planning Problem](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html), Kaba et al., CVPR 2017 | [bibtex](./citations/NeuralTransmittance.txt)
 
 
-### Information Gain
+#### Information Gain
 - [Multi-Sensor Next-Best-View Planning as Matroid-Constrained Submodular Maximization](), Lauri et al., RA-L 2020
 - [Active Implicit Reconstruction Using One-Shot View Planning](), Hu et al., ICRA 2024
 - [SO-NeRF: Active View Planning for NeRF using Surrogate Objectives](), Lee et al., arXiv 2023
@@ -96,7 +96,7 @@ The exploration task, as known as or similar to next-best-view planning and acti
 - [An information gain formulation for active volumetric 3D reconstruction](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html), Isler et al., ICRA 2016 | [bibtex](./citations/NeuralTransmittance.txt)
 
 
-### Recurrent Prediction
+#### Recurrent Prediction
 - [Active Object Reconstruction Using a Guided View Planner](), Yang et al., arXiv 2018
 - [Geometry-Aware Recurrent Neural Networks for Active Visual Recognition](), Cheng et al., arXiv 2018
 
@@ -106,7 +106,7 @@ The exploration task, as known as or similar to next-best-view planning and acti
 
 
 ## Implementations
-#### Libraries
+##### Libraries
 <!-- - [Visu3d](https://github.com/google-research/visu3d), [@google](https://github.com/google-research), 2022 -->
 
 ## License
