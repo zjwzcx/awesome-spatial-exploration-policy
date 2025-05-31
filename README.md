@@ -33,21 +33,21 @@ The exploration task, as known as or similar to next-best-view planning and acti
 ### Indoor Scenes
 
 #### Reinforcement Learning
-- [GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes](https://arxiv.org/abs/2505.20294), Chen et al., arXiv 2025 | [Project](https://xiao-chen.tech/gleam/) | [Code](https://github.com/zjwzcx/GLEAM)
-- [Learning to Explore using Active Neural SLAM](https://arxiv.org/abs/2004.05155), Chaplot et al., ICLR 2020 | [Code](https://github.com/devendrachaplot/Neural-SLAM)
-- [Learning Exploration Policies for Navigation](https://arxiv.org/abs/1903.01959), Chen et al., ICLR 2019 | [Code](https://github.com/taochenshh/exp4nav)
+- GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes, Chen et al., arXiv 2025 | [Paper](https://arxiv.org/abs/2505.20294) | [Project](https://xiao-chen.tech/gleam/) | [Code](https://github.com/zjwzcx/GLEAM)
+- Learning to Explore using Active Neural SLAM, Chaplot et al., ICLR 2020 | [Paper](https://arxiv.org/abs/2004.05155) | [Code](https://github.com/devendrachaplot/Neural-SLAM)
+- Learning Exploration Policies for Navigation, Chen et al., ICLR 2019 | [Paper](https://arxiv.org/abs/1903.01959) | [Code](https://github.com/taochenshh/exp4nav)
 
 
 #### Information Gain
-- [ActiveGS: Active Scene Reconstruction Using Gaussian Splatting](https://arxiv.org/abs/2412.17769), Jin et al., RA-L 2025
-- [Multi-robot collaborative dense scene reconstruction](https://dl.acm.org/doi/10.1145/3306346.3322942), Dong et al., TOG 2019
-- [Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields](https://arxiv.org/abs/2209.08718), Sünderhauf et al., arXiv 2022
+- ActiveGS: Active Scene Reconstruction Using Gaussian Splatting, Jin et al., RA-L 2025 | [Paper](https://arxiv.org/abs/2412.17769)
+- Multi-robot collaborative dense scene reconstruction, Dong et al., TOG 2019 | [Paper](https://dl.acm.org/doi/10.1145/3306346.3322942)
+- Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields, Sünderhauf et al., arXiv 2022 | [Paper](https://arxiv.org/abs/2209.08718)
 
 
 
 
 #### Recurrent Prediction
-- [Where to Explore Next? ExHistCNN for History-aware Autonomous 3D Exploration](https://arxiv.org/abs/2011.14669), Wang et al., ECCV 2020
+- Where to Explore Next? ExHistCNN for History-aware Autonomous 3D Exploration, Wang et al., ECCV 2020 | [Paper](https://arxiv.org/abs/2011.14669)
 
 <!-- </details> -->
 
