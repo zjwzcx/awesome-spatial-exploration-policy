@@ -39,7 +39,7 @@ The exploration task, as known as or similar to next-best-view planning and acti
 
 
 #### Information Gain
-- NextBestPath: Efficient 3D Mapping of Unseen Environments, Li et al, ICLR 2025 | [Paper](https://arxiv.org/abs/2502.05378)
+- NextBestPath: Efficient 3D Mapping of Unseen Environments, Li et al, ICLR 2025 | [Paper](https://arxiv.org/abs/2502.05378) | [Project](https://shiyao-li.github.io/nbp/)
 - ActiveGS: Active Scene Reconstruction Using Gaussian Splatting, Jin et al., RA-L 2025 | [Paper](https://arxiv.org/abs/2412.17769)
 - Multi-robot collaborative dense scene reconstruction, Dong et al., TOG 2019 | [Paper](https://dl.acm.org/doi/10.1145/3306346.3322942)
 - Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields, Sünderhauf et al., arXiv 2022 | [Paper](https://arxiv.org/abs/2209.08718)
