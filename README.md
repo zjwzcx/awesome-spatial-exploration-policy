@@ -39,6 +39,7 @@ The exploration task, as known as or similar to next-best-view planning and acti
 
 
 #### Information Gain
+- NextBestPath: Efficient 3D Mapping of Unseen Environments, Li et al, ICLR 2025 | [Paper](https://arxiv.org/abs/2502.05378)
 - ActiveGS: Active Scene Reconstruction Using Gaussian Splatting, Jin et al., RA-L 2025 | [Paper](https://arxiv.org/abs/2412.17769)
 - Multi-robot collaborative dense scene reconstruction, Dong et al., TOG 2019 | [Paper](https://dl.acm.org/doi/10.1145/3306346.3322942)
 - Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields, Sünderhauf et al., arXiv 2022 | [Paper](https://arxiv.org/abs/2209.08718)
@@ -58,13 +59,13 @@ The exploration task, as known as or similar to next-best-view planning and acti
 ### Outdoor Scenes
 
 #### Reinforcement Learning
-- [GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction](https://arxiv.org/abs/2402.16174), Chen et al., CVPR 2024 | [Project](https://gennbv.tech/) | [Code](https://github.com/zjwzcx/GenNBV)
-- [Next-Best View Policy for 3D Reconstruction](https://arxiv.org/abs/2008.12664), Peralta et al., ECCV 2020 Workshop | [Code](https://github.com/darylperalta/ScanRL)
+- GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction, Chen et al., CVPR 2024 | [Paper](https://arxiv.org/abs/2402.16174) | [Project](https://gennbv.tech/) | [Code](https://github.com/zjwzcx/GenNBV)
+- Next-Best View Policy for 3D Reconstruction, Peralta et al., ECCV 2020 Workshop | [Paper](https://arxiv.org/abs/2008.12664) | [Code](https://github.com/darylperalta/ScanRL)
 
 #### Information Gain
-- [Semantically Informed Next Best View Planning for Autonomous Aerial 3D Reconstruction](), Kay et al., IROS 2021
-- [Next-Best-View planning for surface reconstruction of large-scale 3D environments with multiple UAVs](), Hardouin et al., IROS 2020
-- [Learn-to-Score: Efficient 3D Scene Exploration by Predicting View Utility](),  et al., ECCV 2018
+- Semantically Informed Next Best View Planning for Autonomous Aerial 3D Reconstruction, Kay et al., IROS 2021 | [Paper](https://ieeexplore.ieee.org/document/9636352)
+- Next-Best-View planning for surface reconstruction of large-scale 3D environments with multiple UAVs, Hardouin et al., IROS 2020 | [Paper](https://ieeexplore.ieee.org/document/9340897)
+- Learn-to-Score: Efficient 3D Scene Exploration by Predicting View Utility,  et al., ECCV 2018 | [Paper](https://arxiv.org/abs/1806.10354)
 
 <!-- #### Recurrent Prediction
 - [](),  et al., arXiv 2018 -->
@@ -79,31 +80,31 @@ The exploration task, as known as or similar to next-best-view planning and acti
 ### Objects
 
 #### Reinforcement Learning
-- [RL-NBV: A deep reinforcement learning based next-best-view method for unknown object reconstruction](), Wang et al., Pattern Recognition 2024
-- [Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction](),  et al., arXiv 2023
-- [Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances](),  et al., arXiv 2023
-- [A Reinforcement Learning Approach to the View Planning Problem](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html), Kaba et al., CVPR 2017
+- RL-NBV: A deep reinforcement learning based next-best-view method for unknown object reconstruction, Wang et al., Pattern Recognition 2024 | [Paper] (https://dl.acm.org/doi/abs/10.1016/j.patrec.2024.05.014)
+- Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction, Gazani et al., arXiv 2023 | [Paper](https://www.researchgate.net/publication/372313638_Bag_of_Views_An_Appearance-based_Approach_to_Next-Best-View_Planning_for_3D_Reconstruction)
+- Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances, Hou et al., CVPR 2024 | [Paper](https://arxiv.org/abs/2303.06145) | [Code](https://github.com/hou-yz/MVSelect)
+- A Reinforcement Learning Approach to the View Planning Problem, Kaba et al., CVPR 2017 | [Paper](https://arxiv.org/abs/1610.06204)
 
 
 #### Information Gain
-- [Multi-Sensor Next-Best-View Planning as Matroid-Constrained Submodular Maximization](), Lauri et al., RA-L 2020
-- [Active Implicit Reconstruction Using One-Shot View Planning](), Hu et al., ICRA 2024
-- [SO-NeRF: Active View Planning for NeRF using Surrogate Objectives](), Lee et al., arXiv 2023
-- [FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information](), Jiang et al., arXiv 2023
-- [NeU-NBV: Next Best View Planning Using Uncertainty Estimation in Image-Based Neural Rendering](), Jin et al., IROS 2023
-- [A Global Generalized Maximum Coverage-based Solution to the Non-model-based View Planning Problem for Object Reconstruction](), Pan et al., CVIU 2023
-- [ActiveRMAP: Radiance Field for Active Mapping And Planning](), Zhan et al., arXiv 2022
-- [Uncertainty-Driven Active Vision for Implicit Scene Reconstruction](), Smith et al., arXiv 2022
-- [ActiveNeRF: Learning where to See with Uncertainty Estimation](), Pan et al., ECCV 2022
-- [Uncertainty Guided Policy for Active Robotic 3D Reconstruction using Neural Radiance Fields](), Lee et al., R-AL 2016
-- [PC-NBV: A Point Cloud Based Deep Network for Efficient Next Best View Planning](),  et al., IROS 2020
-- [A comparison of volumetric information gain metrics for active 3D object reconstruction](), Delmerico et al., Autonomous 2017
-- [An information gain formulation for active volumetric 3D reconstruction](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html), Isler et al., ICRA 2016
+- Active Implicit Reconstruction Using One-Shot View Planning, Hu et al., ICRA 2024 [Paper](https://arxiv.org/abs/2310.00685)
+- FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information, Jiang et al., ECCV 2024 | [Paper](https://arxiv.org/abs/2311.17874) | [Code](https://github.com/JiangWenPL/FisherRF)
+- SO-NeRF: Active View Planning for NeRF using Surrogate Objectives, Lee et al., arXiv 2023 | [Paper](https://arxiv.org/abs/2312.03266)
+- NeU-NBV: Next Best View Planning Using Uncertainty Estimation in Image-Based Neural Rendering, Jin et al., IROS 2023 | [Paper](https://arxiv.org/abs/2303.01284) | [Code](https://github.com/dmar-bonn/neu-nbv)
+- A Global Generalized Maximum Coverage-based Solution to the Non-model-based View Planning Problem for Object Reconstruction, Pan et al., CVIU 2023 | [Paper](https://dl.acm.org/doi/10.1016/j.cviu.2022.103585)
+- ActiveRMAP: Radiance Field for Active Mapping And Planning, Zhan et al., arXiv 2022 | [Paper](https://arxiv.org/abs/2211.12656)
+- Uncertainty-Driven Active Vision for Implicit Scene Reconstruction, Smith et al., arXiv 2022 | [Paper](https://arxiv.org/abs/2210.00978) | [Code](https://github.com/facebookresearch/Uncertainty-Driven-Active-Vision)
+- ActiveNeRF: Learning where to See with Uncertainty Estimation, Pan et al., ECCV 2022 | [Paper](https://arxiv.org/abs/2209.08546)
+- Uncertainty Guided Policy for Active Robotic 3D Reconstruction using Neural Radiance Fields, Lee et al., R-AL 2022 | [Paper](https://arxiv.org/abs/2209.08409) | [Video](https://www.youtube.com/watch?v=o__VGNqt2ok&ab_channel=SuryanshKumar)
+- PC-NBV: A Point Cloud Based Deep Network for Efficient Next Best View Planning, Zeng et al., IROS 2020 | [Paper](https://ieeexplore.ieee.org/document/9340916) | [Code](https://github.com/Surean233/PC-NBV)
+- Multi-Sensor Next-Best-View Planning as Matroid-Constrained Submodular Maximization, Lauri et al., RA-L 2020 | [Paper](https://arxiv.org/abs/2007.02084)
+- A comparison of volumetric information gain metrics for active 3D object reconstruction, Delmerico et al., Autonomous Robots 2017 | [Paper](https://www.researchgate.net/publication/316362928_A_comparison_of_volumetric_information_gain_metrics_for_active_3D_object_reconstruction)
+- An information gain formulation for active volumetric 3D reconstruction, Isler et al., ICRA 2016 | [Paper](https://ieeexplore.ieee.org/document/7487527) | [Project](https://cseweb.ucsd.edu/~viscomp/projects/NeuralTransmittance/index.html)
 
 
 #### Recurrent Prediction
-- [Active Object Reconstruction Using a Guided View Planner](), Yang et al., arXiv 2018
-- [Geometry-Aware Recurrent Neural Networks for Active Visual Recognition](), Cheng et al., arXiv 2018
+- Active Object Reconstruction Using a Guided View Planner, Yang et al., IJCAI 2018 | [Paper](https://dl.acm.org/doi/abs/10.5555/3304652.3304699)
+- Geometry-Aware Recurrent Neural Networks for Active Visual Recognition, Cheng et al., NIPS 2018 | [Paper](https://arxiv.org/abs/1811.01292)
 
 <!-- </details> -->
 
