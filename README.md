@@ -41,6 +41,9 @@ The exploration task, as known as or similar to next-best-view planning and acti
 #### Information Gain
 - NextBestPath: Efficient 3D Mapping of Unseen Environments, Li et al, ICLR 2025 | [Paper](https://arxiv.org/abs/2502.05378) | [Project](https://shiyao-li.github.io/nbp/)
 - ActiveGS: Active Scene Reconstruction Using Gaussian Splatting, Jin et al., RA-L 2025 | [Paper](https://arxiv.org/abs/2412.17769)
+- Active Neural Mapping at Scale, Kuang et al., IROS 2024 | [Paper](https://arxiv.org/abs/2409.20276)
+- Active Neural Mapping, Yan et al., ICCV 2023 | [Paper](https://arxiv.org/abs/2308.16246) | [Project](https://zikeyan.github.io/active-INR/index.html)
+- Continual Neural Mapping: Learning an Implicit Scene Representation from Sequential Observations, Yan et al., ICCV 2021 | [Paper](https://zikeyan.github.io/continual-INR/index.html) | [Project](https://zikeyan.github.io/continual-INR/index.html)
 - Multi-robot collaborative dense scene reconstruction, Dong et al., TOG 2019 | [Paper](https://dl.acm.org/doi/10.1145/3306346.3322942)
 - Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields, Sünderhauf et al., arXiv 2022 | [Paper](https://arxiv.org/abs/2209.08718)
 
@@ -87,8 +90,9 @@ The exploration task, as known as or similar to next-best-view planning and acti
 
 
 #### Information Gain
-- Active Implicit Reconstruction Using One-Shot View Planning, Hu et al., ICRA 2024 [Paper](https://arxiv.org/abs/2310.00685)
+- Beyond Uncertainty: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF, Liu et al., arXiv 2024 | [Paper](https://arxiv.org/abs/2403.11396)
 - FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information, Jiang et al., ECCV 2024 | [Paper](https://arxiv.org/abs/2311.17874) | [Code](https://github.com/JiangWenPL/FisherRF)
+- Active Implicit Reconstruction Using One-Shot View Planning, Hu et al., ICRA 2024 [Paper](https://arxiv.org/abs/2310.00685)
 - SO-NeRF: Active View Planning for NeRF using Surrogate Objectives, Lee et al., arXiv 2023 | [Paper](https://arxiv.org/abs/2312.03266)
 - NeU-NBV: Next Best View Planning Using Uncertainty Estimation in Image-Based Neural Rendering, Jin et al., IROS 2023 | [Paper](https://arxiv.org/abs/2303.01284) | [Code](https://github.com/dmar-bonn/neu-nbv)
 - A Global Generalized Maximum Coverage-based Solution to the Non-model-based View Planning Problem for Object Reconstruction, Pan et al., CVIU 2023 | [Paper](https://dl.acm.org/doi/10.1016/j.cviu.2022.103585)
