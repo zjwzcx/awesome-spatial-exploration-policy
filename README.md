@@ -1,9 +1,9 @@
-# Awesome Exploration Policy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome exploration policy papers, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
+# Awesome Spatial Exploration Policy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome spatial exploration policy papers, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
 We classify the primary technical frameworks of existing NBV policies into the following categories: 1) information gain (a.k.a. uncertainty), 2) reinforcement learning, 3) regression/recurrent prediction.
 
-The exploration task, as known as or similar to next-best-view planning and active mapping, aims to determine the next best viewpoints to better model the target objects or scenes. The downstream tasks include: 3D reconstruction, neural rendering, SLAM, visual localization, object understanding, robotic manipulation.
+The exploration task, also known as next-best-view planning and active mapping, aims to determine the next best viewpoints to better model the target objects or scenes. The downstream tasks include: 3D reconstruction, neural rendering, SLAM, visual localization, object understanding, and robotic manipulation.
 
 
 ## Table of Contents
