@@ -120,5 +120,7 @@ The exploration task, also known as next-best-view planning and active mapping, 
 ##### Libraries
 <!-- - [Visu3d](https://github.com/google-research/visu3d), [@google](https://github.com/google-research), 2022 -->
 
+- [Batch-Export-ProcTHOR-Meshes](https://github.com/zjwzcx/Batch-Export-ProcTHOR-Meshes)
+
 ## License
 MIT
