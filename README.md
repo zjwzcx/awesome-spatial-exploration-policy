@@ -20,9 +20,9 @@ The exploration task, also known as next-best-view planning and active mapping, 
 
 
 ## Survey
-- [A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers](https://ieeexplore.ieee.org/abstract/document/10075065?casa_token=2C8evIgOOiMAAAAA:FAPNd2PC5v8QMh1SV25jHtyGzvhYVInMiJokq1c0lTg_D0PGFOKOHY0Khtt_at0gZSwgCSvggoo), Ahmed et al., T-RO, 2023
-- [A Review on Viewpoints and Path Planning for UAV-Based 3-D Reconstruction](https://ieeexplore.ieee.org/abstract/document/10124957), Maboudi et al., IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023
-- [Active SLAM: A Review On Last Decade](https://arxiv.org/abs/2212.11654), Ahmed et al., Sensors, 2023
+- A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers], Ahmed et al., T-RO 2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10075065?casa_token=2C8evIgOOiMAAAAA:FAPNd2PC5v8QMh1SV25jHtyGzvhYVInMiJokq1c0lTg_D0PGFOKOHY0Khtt_at0gZSwgCSvggoo)
+- A Review on Viewpoints and Path Planning for UAV-Based 3-D Reconstruction, Maboudi et al., IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10124957)
+- Active SLAM: A Review On Last Decade, Ahmed et al., Sensors, 2023 | [Paper](https://arxiv.org/abs/2212.11654)
 
 
 
@@ -84,7 +84,7 @@ The exploration task, also known as next-best-view planning and active mapping, 
 ### Objects
 
 #### Reinforcement Learning
-- RL-NBV: A deep reinforcement learning based next-best-view method for unknown object reconstruction, Wang et al., Pattern Recognition 2024 | [Paper] (https://dl.acm.org/doi/abs/10.1016/j.patrec.2024.05.014)
+- RL-NBV: A deep reinforcement learning based next-best-view method for unknown object reconstruction, Wang et al., Pattern Recognition 2024 | [Paper](https://dl.acm.org/doi/abs/10.1016/j.patrec.2024.05.014)
 - Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction, Gazani et al., arXiv 2023 | [Paper](https://www.researchgate.net/publication/372313638_Bag_of_Views_An_Appearance-based_Approach_to_Next-Best-View_Planning_for_3D_Reconstruction)
 - Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances, Hou et al., CVPR 2024 | [Paper](https://arxiv.org/abs/2303.06145) | [Code](https://github.com/hou-yz/MVSelect)
 - A Reinforcement Learning Approach to the View Planning Problem, Kaba et al., CVPR 2017 | [Paper](https://arxiv.org/abs/1610.06204)
