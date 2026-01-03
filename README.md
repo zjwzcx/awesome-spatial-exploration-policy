@@ -33,7 +33,8 @@ The exploration task, also known as next-best-view planning and active mapping, 
 ### Indoor Scenes
 
 #### Reinforcement Learning
-- GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes, Chen et al., arXiv 2025 | [Paper](https://arxiv.org/abs/2505.20294) | [Project](https://xiao-chen.tech/gleam/) | [Code](https://github.com/zjwzcx/GLEAM)
+- GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes, Chen et al., ICCV 2025 | [Paper](https://arxiv.org/abs/2505.20294) | [Project](https://xiao-chen.tech/gleam/) | [Code](https://github.com/zjwzcx/GLEAM)
+- Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for Efficient 3D Reconstruction, Lu et al., WACV 2026 | [Paper](https://arxiv.org/abs/2508.01014) | [Project](https://johnnylu305.github.io/hestia) | [Code]()
 - Learning to Explore using Active Neural SLAM, Chaplot et al., ICLR 2020 | [Paper](https://arxiv.org/abs/2004.05155) | [Code](https://github.com/devendrachaplot/Neural-SLAM)
 - Learning Exploration Policies for Navigation, Chen et al., ICLR 2019 | [Paper](https://arxiv.org/abs/1903.01959) | [Code](https://github.com/taochenshh/exp4nav)
 
